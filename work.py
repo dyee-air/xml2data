@@ -16,6 +16,6 @@ def listUniqueAttrVals(xml_element_list, attr_name):
     return(attr_list)
 
 
-
+myCB.getRows('fieldname')
 
 print('Done')
